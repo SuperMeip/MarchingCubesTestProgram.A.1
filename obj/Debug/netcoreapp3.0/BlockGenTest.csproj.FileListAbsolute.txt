@@ -1,0 +1,11 @@
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\obj\Debug\netcoreapp3.0\BlockGenTest.csprojAssemblyReference.cache
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\obj\Debug\netcoreapp3.0\BlockGenTest.AssemblyInfoInputs.cache
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\obj\Debug\netcoreapp3.0\BlockGenTest.AssemblyInfo.cs
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\bin\Debug\netcoreapp3.0\BlockGenTest.exe
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\bin\Debug\netcoreapp3.0\BlockGenTest.deps.json
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\bin\Debug\netcoreapp3.0\BlockGenTest.runtimeconfig.json
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\bin\Debug\netcoreapp3.0\BlockGenTest.runtimeconfig.dev.json
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\bin\Debug\netcoreapp3.0\BlockGenTest.dll
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\bin\Debug\netcoreapp3.0\BlockGenTest.pdb
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\obj\Debug\netcoreapp3.0\BlockGenTest.dll
+C:\Users\super\Projects\VS\BlockGenTest\BlockGenTest\obj\Debug\netcoreapp3.0\BlockGenTest.pdb
