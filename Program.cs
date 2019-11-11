@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Evix.Voxel.Collections;
+using Evix.Voxel.Collections.BlockData;
+using Evix.Voxel.Generation.Mesh;
+using System;
 
 namespace BlockGenTest {
   class Program {
@@ -9,19 +12,21 @@ namespace BlockGenTest {
           new WaveSource()
       );
 
-      IBlockMeshGenerator meshGenerator = new MarchRenderer();
+      IBlockMeshGenerator meshGenerator = new MarchGenerator();
 
       level.initializeAround((50, 0, 50));
+      /*System.Threading.Thread.Sleep(7000);
+
       Coordinate.Zero.until(level.chunkBounds, chunkLocation => {
         Console.WriteLine("Mesh Generating: " + chunkLocation.ToString());
         IBlockStorage chunkData = level.getChunk(chunkLocation);
-        if (chunkData != null) {
+        if (!chunkData.isEmpty) {
           Console.WriteLine("Done Generating Mesh: " + chunkLocation.ToString());
           meshGenerator.generateMesh(chunkData);
         } else {
           Console.WriteLine("Generating Mesh Skipped: " + chunkLocation.ToString());
         }
-      });
+      });*/
     }
   }
 }
