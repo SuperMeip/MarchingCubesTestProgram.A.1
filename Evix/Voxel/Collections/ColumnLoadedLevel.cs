@@ -4,6 +4,7 @@ using System.IO;
 using System.Threading;
 using Evix.Voxel.Collections.BlockData;
 using Evix.Voxel.Generation.BlockData;
+using Jobs;
 
 namespace Evix.Voxel.Collections {
 
